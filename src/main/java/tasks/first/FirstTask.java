@@ -6,5 +6,5 @@ public interface FirstTask {
 
     Boolean validateBrackets(String s);
 
-    Long polishCalculation(String s);
+    int polishCalculation(String s);
 }
